@@ -7,6 +7,7 @@ public class Main {
                 suma += i;
             }
         }
+        //test test
         System.out.println("Suma brojeva je: " + suma);
     }
 // testing remote push
